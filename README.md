@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Bastola</h1>
 <h3 align="center">I'm a passionate .NET Full Stack Developer with a keen interest in crafting robust and scalable web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bastolamanoj&label=Profile%20views&color=0e75b6&style=flat" alt="bastolamanoj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bastolamanoj" alt="bastolamanoj" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/manojbas123" target="blank"><img src="https://img.shields.io/twitter/follow/manojbas123?logo=twitter&style=for-the-badge" alt="manojbas123" /></a> </p>
 
 - 👨‍💻 You can visit to see by blog [manojbastola.com.np](manojbastola.com.np)
